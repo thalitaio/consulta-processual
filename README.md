@@ -60,13 +60,13 @@ Nesse desafio os processos podem ser cadastrados com dados fake e devem possuir 
 
 A página de busca consiste em pelo menos um campo para o usuário preencher o número do processo.
 
-<img src='https://uploaddeimagens.com.br/imagens/mqhuzN8'/>
+<img src="https://thumbs2.imgbox.com/e6/e6/yWdF2urC_t.png" alt="image host"/>
 
 ### Exibição
 
 Nesse modal devem ser exibidos todos os dados do processo
 
-<img src='https://uploaddeimagens.com.br/imagens/YhoXkus'/>
+<img src="https://thumbs2.imgbox.com/f9/28/l4zQdCjA_t.png" alt="image host"/>
 
 ### Alguns pontos que serão analisados:
 
