@@ -77,4 +77,4 @@ Nesse modal devem ser exibidos todos os dados do processo
     ```jsx
     npm start
     ```
-- irá abrir no navegador http://localhost:3001/
+- irá abrir no navegador
