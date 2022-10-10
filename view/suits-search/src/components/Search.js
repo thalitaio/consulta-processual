@@ -7,10 +7,7 @@ function Search({ details }) {
   const [searchShow, setSearchShow] = useState(false);
 
   const filteredSuits = details.filter((suit) => {
-    return (
-      suit.cnj.toLowerCase().includes(searchField.toLowerCase()) ||
-      suit.tribunal_origem.toLowerCase().includes(searchField.toLowerCase())
-    );
+    return suit.cnj;
   });
 
   const handleChange = (e) => {
