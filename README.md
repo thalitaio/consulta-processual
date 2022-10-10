@@ -68,8 +68,13 @@ Nesse modal devem ser exibidos todos os dados do processo
 
 <img src="https://i.postimg.cc/XX7WR0MZ/Screen-Shot-2022-10-09-at-21-51-20.png"/>
 
-### Alguns pontos que serão analisados:
+# Para rodar o projeto:
 
-- Organização do código
-- Testes
-- Facilidade ao rodar o projeto
+- Clone o repositório para o seu ambiente local. 
+
+- Digite no terminal, na pasta do projeto:
+
+    ```jsx
+    npm start
+    ```
+- irá abrir no navegador http://localhost:3001/
