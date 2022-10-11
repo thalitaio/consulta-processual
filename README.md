@@ -1,34 +1,3 @@
-# Desafio: Consulta Processual
-
-Olá! Esse desafio técnico tem como propósito medir suas habilidades, ver como estuda, pensa e se organiza na prática. O tempo de término é livre, porém o ideal é que não demore muito mais do que uma semana, já que as circunstâncias para a vaga podem mudar.
-
-Após finalizar o desafio, nos envie um link para repositório do projeto ou um zip com o código.
-
-**Registre tudo**: testes que forem executados, ideias que gostaria de implementar se tivesse tempo (explique como você as resolveria, se houvesse tempo), decisões que forem tomadas e seus porquês, arquiteturas que forem testadas e os motivos de terem sido modificadas ou abandonadas. Crie um arquivo `COMMENTS.md` ou `HISTORY.md` no repositório para registrar essas reflexões e decisões.
-
-============
-#### Dicas
-- Use ferramentas e bibliotecas open source, mas documente as decisões e porquês;
-
-- Automatize o máximo possível;
-
-- Em caso de dúvidas, pergunte.
-
-Boa sorte!
-
-## Considerações Gerais
-
-O problema aqui descrito tem algumas constraints:
-
-a) Eu preciso conseguir rodar seu código em um Mac OS X OU no Ubuntu;
-
-b) Devemos ser capazes de rodar o seu código no nosso ambiente local;
-
-Considere que o meu usuário não é root, porém tem permissão de sudo. 
-Temos instalado no nosso sistema: Java, JavaScript (Node), Scala, Python e Go. Qualquer outra dependência que eu precisar você tem que prover.
-
-O repositório contém algumas imagens de exemplo para implementação da parte Web, elas são apenas referências então sinta-se livre para segui-las ou criar sua própria interface.
-
 ## O Desafio
 
 Você deve implementar duas páginas principais:
@@ -78,3 +47,5 @@ Nesse modal devem ser exibidos todos os dados do processo
     npm start
     ```
 - Abrirá no navegador em localhost.
+
+- Você também pode usar a aplicação hospedada em https://consulta-processual-jusbrasil.netlify.app/
