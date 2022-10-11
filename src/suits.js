@@ -8,13 +8,11 @@ const suits = [
     movimentacoes: [
       {
         data: "30/07/2022",
-        descricao:
-          "Cras pharetra rutrum quam eu aliquam. Praesent rhoncus lacus sit amet nunc dictum, eu ornare arcu vulputate. Suspendisse potenti. Nunc imperdiet facilisis ex id laoreet. Curabitur a est a eros cursus posuere",
+        descricao: "Proferido despacho de mero expediente",
       },
       {
         data: "10/08/2022",
-        descricao:
-          "Quisque nec rutrum ipsum, nec volutpat lorem. Donec sed interdum risus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.",
+        descricao: "Conclusos para despacho.",
       },
     ],
     detalhes_processo: [
